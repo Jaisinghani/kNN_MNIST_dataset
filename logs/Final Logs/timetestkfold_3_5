@@ -1,0 +1,125 @@
+start time: 0.43093
+loading training images
+size of train image set----> 47040000
+shape of train image set----> (60000, 28, 28)
+loading test images
+size of test image set----> 7840000
+shape of test image set----> (10000, 28, 28)
+loading training labels
+size of train image set----> 60000
+shape of train image set----> (60000,)
+loading test labels
+size of test image set----> 10000
+shape of test image set----> (10000,)
+end time: 4.139251
+Time taken for  prints 3.7s
+start:  2018-09-16 00:49:44.665469
+size of test_set----> 6000
+size of test labels : 6000
+size of training_set----> 9
+accuracies for one fold 9 training set k =9 :  0.9751666666666666
+Time taken for  k 3.4e+03s
+size of test_set----> 6000
+size of test labels : 6000
+size of training_set----> 9
+accuracies for one fold 9 training set k =9 :  0.9776666666666667
+Time taken for  k 3.3e+03s
+size of test_set----> 6000
+size of test labels : 6000
+size of training_set----> 9
+accuracies for one fold 9 training set k =9 :  0.9733333333333334
+Time taken for  k 3.3e+03s
+size of test_set----> 6000
+size of test labels : 6000
+size of training_set----> 9
+accuracies for one fold 9 training set k =9 :  0.9746666666666667
+Time taken for  k 3.3e+03s
+size of test_set----> 6000
+size of test labels : 6000
+size of training_set----> 9
+accuracies for one fold 9 training set k =9 :  0.9728333333333333
+Time taken for  k 3.3e+03s
+size of test_set----> 6000
+size of test labels : 6000
+size of training_set----> 9
+accuracies for one fold 9 training set k =9 :  0.9718333333333333
+Time taken for  k 3.3e+03s
+size of test_set----> 6000
+size of test labels : 6000
+size of training_set----> 9
+accuracies for one fold 9 training set k =9 :  0.9751666666666666
+Time taken for  k 3.3e+03s
+size of test_set----> 6000
+size of test labels : 6000
+size of training_set----> 9
+accuracies for one fold 9 training set k =9 :  0.9731666666666666
+Time taken for  k 3.3e+03s
+size of test_set----> 6000
+size of test labels : 6000
+size of training_set----> 9
+accuracies for one fold 9 training set k =9 :  0.9756666666666667
+Time taken for  k 3.3e+03s
+size of test_set----> 6000
+size of test labels : 6000
+size of training_set----> 9
+accuracies for one fold 9 training set k =9 :  0.9715
+Time taken for  k 3.3e+03s
+average_accuracy each k : 0.9741000000000002
+Time taken for  k 3.3e+04s
+end:  2018-09-16 09:59:19.066085
+start:  2018-09-16 09:59:19.066101
+size of test_set----> 6000
+size of test labels : 6000
+size of training_set----> 9
+accuracies for one fold 9 training set k =9 :  0.9731666666666666
+Time taken for  k 3.4e+03s
+size of test_set----> 6000
+size of test labels : 6000
+size of training_set----> 9
+accuracies for one fold 9 training set k =9 :  0.9775
+Time taken for  k 3.7e+03s
+size of test_set----> 6000
+size of test labels : 6000
+size of training_set----> 9
+accuracies for one fold 9 training set k =9 :  0.9713333333333334
+Time taken for  k 3.4e+03s
+size of test_set----> 6000
+size of test labels : 6000
+size of training_set----> 9
+accuracies for one fold 9 training set k =9 :  0.9741666666666666
+Time taken for  k 3.4e+03s
+size of test_set----> 6000
+size of test labels : 6000
+size of training_set----> 9
+accuracies for one fold 9 training set k =9 :  0.9713333333333334
+Time taken for  k 3.7e+03s
+size of test_set----> 6000
+size of test labels : 6000
+size of training_set----> 9
+accuracies for one fold 9 training set k =9 :  0.9705
+Time taken for  k 3.6e+03s
+size of test_set----> 6000
+size of test labels : 6000
+size of training_set----> 9
+accuracies for one fold 9 training set k =9 :  0.9716666666666667
+Time taken for  k 3.6e+03s
+size of test_set----> 6000
+size of test labels : 6000
+size of training_set----> 9
+accuracies for one fold 9 training set k =9 :  0.9746666666666667
+Time taken for  k 3.3e+03s
+size of test_set----> 6000
+size of test labels : 6000
+size of training_set----> 9
+accuracies for one fold 9 training set k =9 :  0.9735
+Time taken for  k 3.4e+03s
+size of test_set----> 6000
+size of test labels : 6000
+size of training_set----> 9
+accuracies for one fold 9 training set k =9 :  0.9713333333333334
+Time taken for  k 3.5e+03s
+average_accuracy each k : 0.9729166666666668
+Time taken for  k 3.5e+04s
+end:  2018-09-16 20:30:07.032366
+all k accuracy : [0.9741000000000002, 0.9729166666666668]
+optimal k : 1

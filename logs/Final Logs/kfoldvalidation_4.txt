@@ -1,0 +1,61 @@
+loading training images
+size of train image set----> 47040000
+shape of train image set----> (60000, 28, 28)
+loading training labels
+size of train image set----> 60000
+shape of train image set----> (60000,)
+size of test_set----> 6000
+size of test labels : 6000
+size of training_set----> 9
+Total number of correct predictions : 5861
+Total number of labels : 6000.0
+size of test_set----> 6000
+size of test labels : 6000
+size of training_set----> 9
+Total number of correct predictions : 5845
+Total number of labels : 6000.0
+size of test_set----> 6000
+size of test labels : 6000
+size of training_set----> 9
+Total number of correct predictions : 5859
+Total number of labels : 6000.0
+size of test_set----> 6000
+size of test labels : 6000
+size of training_set----> 9
+Total number of correct predictions : 5848
+Total number of labels : 6000.0
+size of test_set----> 6000
+size of test labels : 6000
+size of training_set----> 9
+Total number of correct predictions : 5846
+Total number of labels : 6000.0
+size of test_set----> 6000
+size of test labels : 6000
+size of training_set----> 9
+Total number of correct predictions : 5857
+Total number of labels : 6000.0
+size of test_set----> 6000
+size of test labels : 6000
+size of training_set----> 9
+Total number of correct predictions : 5835
+Total number of labels : 6000.0
+size of test_set----> 6000
+size of test labels : 6000
+size of training_set----> 9
+Total number of correct predictions : 5847
+Total number of labels : 6000.0
+size of test_set----> 6000
+size of test labels : 6000
+size of training_set----> 9
+Total number of correct predictions : 5826
+Total number of labels : 6000.0
+size of test_set----> 6000
+size of test labels : 6000
+size of training_set----> 9
+Total number of correct predictions : 5848
+Total number of labels : 6000.0
+Accuracies for all folds for k =  4  is : [0.9768333333333333, 0.9741666666666666, 0.9765, 0.9746666666666667, 0.9743333333333334, 0.9761666666666666, 0.9725, 0.9745, 0.971, 0.9746666666666667]
+Average_accuracy for k =  4  is : 0.9745333333333333
+Accuracy for each fold of every k :  [(4, [0.9768333333333333, 0.9741666666666666, 0.9765, 0.9746666666666667, 0.9743333333333334, 0.9761666666666666, 0.9725, 0.9745, 0.971, 0.9746666666666667])]
+Accuracies for all k ranging from 1 to 10 is : [(4, 0.9745333333333333)]
+optimal k : 1

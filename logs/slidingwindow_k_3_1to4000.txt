@@ -1,0 +1,17 @@
+loading training images
+size of train image set----> 47040000
+shape of train image set----> (60000, 28, 28)
+loading test images
+size of test image set----> 7840000
+shape of test image set----> (10000, 28, 28)
+loading training labels
+size of train image set----> 60000
+shape of train image set----> (60000,)
+loading test labels
+size of test image set----> 10000
+shape of test image set----> (10000,)
+Number of correct predictions : 3861
+Total Number of test labels : 4000.0
+ Sliding window classification accuracy for optimal K =3 : 96.525
+ Sliding Window classification error for optimal K =3  : 3.4749999999999948
+Sliding Window confidence Interval for optimal k =3:  [0.9667154727786623, 0.9637845272213378]
